@@ -1,8 +1,10 @@
 Goedemorgen,
-Ik heb een opmerking over de beschrijving van het land Polen in de door jou verstrekte gegevens. Sinds de Conferentie van Potsdam (1945) behoort de stad Dantzig (Gdańsk in het Pools) tot Polen. Ik kan geen rechtvaardiging vinden waarom u het in het veld "Beschrijving" apart van het land vermeldt in zes verschillende vormen:
+Ik heb een opmerking over de beschrijving van het land Polen in uw openbaar verstrekte gegevens. Sinds de Conferentie van Potsdam (1945) behoort de stad Dantzig (Gdańsk in het Pools) tot Polen. Ik kan geen rechtvaardiging vinden waarom u het in het veld "Description" apart van het land vermeldt in zes verschillende vormen:
 [1] "Polen en Dantzig. [...]"
 [2] "Polen en Dantzig"
 [3] "Polen en Dantzig."
 [4] "Polen en Dantzig.  [...]"
 [5] "Polen, Dantzig."
 [6] "Polen & Dantzig."
+
+Ik sta mezelf toe het R-script en CSV-file met de exacte locatie van de gedetecteerde onnauwkeurigheden te delen: https://github.com/JacekPardyak/CBS
